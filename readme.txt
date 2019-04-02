@@ -5,3 +5,4 @@ git tracks change.
 
 Hello, github!
 Creating a new branch is quick.
+Switched to a new branch 'feature1'
