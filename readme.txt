@@ -6,6 +6,7 @@ git tracks change.
 Hello, github!
 
 this is the second commit.
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 
@@ -13,3 +14,6 @@ this is the second commit.
 =======
 debug debug debug debug
 >>>>>>> Stashed changes
+=======
+debug debug debug debug
+>>>>>>> issue-101
