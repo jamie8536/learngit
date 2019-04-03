@@ -6,6 +6,10 @@ git tracks change.
 Hello, github!
 
 this is the second commit.
+<<<<<<< Updated upstream
 
 
 //hello, this is my tests for git stash.
+=======
+debug debug debug debug
+>>>>>>> Stashed changes
